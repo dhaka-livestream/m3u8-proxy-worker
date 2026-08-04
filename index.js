@@ -7,7 +7,7 @@
 const CHANNEL_MAP = {
   "starjalshahd": "https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8",
   "zeebanglahd": "http://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvMzAxL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj00MTNmNjk2N2JjMWVkZmRkZDk2MzJmYzg4NmMwNjcyYTQ4ZDViZDgzLWI5NTkyYjI5OTAzMWZhNTUwMWQxNGJiYWZmN2NiNmI2LTE3ODU4NTMwOTctMTc4NTg0OTQ5Nw.m3u8",
-  "sports": "https://another-server.com/sports/playlist.m3u8",
+  "starjalshahd-2bdx": "http://103.102.27.173:84/STAR-JALSHA-HD/tracks-v1a1/mono.m3u8",
 "sports": "https://another-server.com/sports/playlist.m3u8",
 "sports": "https://another-server.com/sports/playlist.m3u8",
 "sports": "https://another-server.com/sports/playlist.m3u8",
