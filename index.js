@@ -5,7 +5,7 @@
 
 // ------------------ URL ম্যাপিং (আপনার চ্যানেল লিস্ট) ------------------
 const CHANNEL_MAP = {
-  "starjalsha": "https://example.com/live/starjalsha.m3u8",
+  "starjalsha": "https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8",
   "sports": "https://another-server.com/sports/playlist.m3u8",
   // নতুন চ্যানেল যোগ করুন, যেমন: "channel_name": "original_m3u8_url"
 };
