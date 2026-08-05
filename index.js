@@ -10,7 +10,7 @@ const CHANNEL_MAP = {
   "starjalshahd-bdx3": "https://footfytv.pro/proxy/direct?url=http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8",
 "sonyaath-bdx2": "https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvMzA2L3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj02MzgwMWM2ODcyZWMyN2JlOTEyYjAxMTQzMjhlZTdmNWVhZGUyOWQxLThlMjI1YmFjMDM5ZjA4YmJmNzZiZmRkOTU5YzEwNDExLTE3ODU4ODkxNDUtMTc4NTg4NTU0NQ.m3u8",
 "zeebanglasd": "http://27.124.71.27/Zee_Bangla/index.m3u8",
-"sports": "https://another-server.com/sports/playlist.m3u8",
+"somoytv": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
 "sports": "https://another-server.com/sports/playlist.m3u8",
 
   // নতুন চ্যানেল যোগ করুন, যেমন: "channel_name": "original_m3u8_url"
