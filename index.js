@@ -11,7 +11,7 @@ const CHANNEL_MAP = {
 "sonyaath-bdx2": "https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvMzA2L3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj02MzgwMWM2ODcyZWMyN2JlOTEyYjAxMTQzMjhlZTdmNWVhZGUyOWQxLThlMjI1YmFjMDM5ZjA4YmJmNzZiZmRkOTU5YzEwNDExLTE3ODU4ODkxNDUtMTc4NTg4NTU0NQ.m3u8",
 "zeebanglasd": "http://27.124.71.27/Zee_Bangla/index.m3u8",
 "somoytv": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-"sports": "https://another-server.com/sports/playlist.m3u8",
+"zeebanglahd-ar1": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8",
   "sports": "https://another-server.com/sports/playlist.m3u8",
   "sports": "https://another-server.com/sports/playlist.m3u8",
   "sports": "https://another-server.com/sports/playlist.m3u8",
